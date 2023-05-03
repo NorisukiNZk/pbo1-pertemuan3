@@ -11,7 +11,7 @@ public class Switch {
                 System.out.println("urang acayan");
                 break;
             case 3:
-                System.out.println("ubat nyamusk");
+                System.out.println("ubat nyamuk");
                 break;
             case 4:
                 System.out.println("dubil dit");
